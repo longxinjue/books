@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 关于我们
 
-You can use the [editor on GitHub](https://github.com/longxinjue/longxinjue/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+发现写程序代码已经无法满足我的爱好，于是决定在空余时间搞点文学创作。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 《沙蟹汁的畅爽》
 
-### Markdown
+一直纠结于这部小说的名字，先后用到《沙蟹汁的名字》、《沙蟹汁的夏天》等，还是对应到文中的情节，暂时使用标题的书名。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 楔子
+少年们继续追来，有人开始爬上平房的拱顶，于是遥控者不得不再次调整飞行轨迹。恰巧在排房的背后有大片稻田，阡陌纵横阻挡住少年们的行进。大功告成的飞行器在田野上空呼啸而过，渐渐地溶入天际远方。
 
-```markdown
-Syntax highlighted code block
+### 第一章 骆驼
+在渔船尾部的船舵室内，只有船老大一人独自操作驾驶。只见他目光炯炯平视前方，两条黄铜色的粗臂按在方向盘之上，偶尔顺手抓起控制台旁边的酒瓶呡上一口。何金新走进船舵室，拿起放在控制台上的一个塑料盒子，并小心地拔开翻盖扣子，里面有一台小巧的电子设备。他看到一盏指示灯在不停地闪绿，提示设备运转正常，便放心地扣上好盒子，并将它重新放回到原处。
 
-# Header 1
-## Header 2
-### Header 3
+**目录 (Table of Contents)**
 
-- Bulleted
-- List
+[TOCM]
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/longxinjue/longxinjue/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[TOC]
